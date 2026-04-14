@@ -496,11 +496,11 @@ The assignment emphasizes:
 
 ## Author
 
-Replace with your personal details:
+
 
 ```text
-Name Surname
-Department of Computer Engineering and Informatics
+Kossyvakis Konstantinos-Andrianos
+Department of Computer science and engineering
 University of Ioannina
 ```
 
